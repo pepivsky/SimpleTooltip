@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SimpleTooltip"
 include(":app")
- 
+include(":app:simpletooltip")

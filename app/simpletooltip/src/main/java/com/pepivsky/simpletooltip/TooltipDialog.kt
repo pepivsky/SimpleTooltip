@@ -1,4 +1,4 @@
-package com.grupogigante.officedepot.Common.CustomView
+package com.pepivsky.simpletooltip
 
 import android.animation.ObjectAnimator
 import android.app.Activity
@@ -13,8 +13,8 @@ import androidx.annotation.LayoutRes
 import androidx.core.animation.addListener
 import androidx.core.view.marginEnd
 import androidx.core.view.marginStart
-import com.pepivsky.simpletooltip.R
 import com.pepivsky.simpletooltip.databinding.TooltipDialogBinding
+
 
 /**
  * Class for creating and displaying tooltips in an Android application.
